@@ -1,0 +1,15 @@
+{
+    "farmable" : 4584,
+    "delay" : 200,
+    "worlds" : ["264HQXD|jfi9", "O34CO50|jfi9", "H198AR3|jfi9",
+    "I3329KJ|jfi9", "667Z5JY|jfi9", "O594H55|jfi9",
+    "25N0BO2|jfi9", "Y3343OE|jfi9", "Z05RMD6|jfi9",
+    "4769A7B|jfi9", "726R560|jfi9", "C42XTC2|jfi9" ],
+    "seedStorage" : "MAGPOMN23|MZ23",
+    "packStorage" : "XSHOPZPROXX83|BGV4",
+    "pack" : "change_addr",
+    "price" : 20000,
+    "drop" : [2580],
+    "trash" : [5028, 5036,7164,7162,5034,5040,5044,5042,5032, 5038]
+    
+}
