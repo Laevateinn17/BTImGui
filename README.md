@@ -2,7 +2,7 @@
 
 
 Growtopia botting application
-DOESNT WORK AFTER Growtopia v4.17
+(DOESNT WORK AFTER Growtopia v4.17)
 
 
 
