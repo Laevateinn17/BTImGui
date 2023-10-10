@@ -13,6 +13,7 @@ Application Features:
 - System Anti-cheat bypass
 - Captcha solver
 - Proxy & Debugger
+- Built in world viewer
 - Uses ImGui for GUI
 
 
