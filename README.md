@@ -1,4 +1,4 @@
-# BTImGui
+![image](https://github.com/Laevateinn17/BTImGui/assets/93073203/2e1676bc-84d9-4ab9-8d7d-b8a0ba76e53d)# BTImGui
 
 (DOESNT WORK AFTER Growtopia v4.17)
 
@@ -25,3 +25,5 @@ Bot Features:
 
 Included Auto Farm:
 - basic farm rotation script
+
+![image](https://github.com/Laevateinn17/BTImGui/assets/93073203/0c1e0488-bf88-414a-92c3-faedc7c6899b)
